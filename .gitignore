@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+venv/
+.idea/
+*.json
+
+slack_app_token.txt
+slack_bot_user_oauth_token.txt

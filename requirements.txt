@@ -1,0 +1,4 @@
+slack-sdk
+yfinance
+mplfinance
+matplotlib
